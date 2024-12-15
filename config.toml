@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Daily AI Scholar'
+theme = "hugo-theme-techdoc"
+
+[params]
+menu_style = "open-menu"  # Options: "open-menu", "slide-menu", or leave empty
+show_sidebar = true       # Controls whether the sidebar is displayed
